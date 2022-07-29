@@ -1,1 +1,11 @@
-This is an attempt to make the website function as close to the authentic Taco Bell homepage a possible. Most of the links on this page will link to parts of the real taco bell website.
+// Objective: Create a program where the player can move a red square with the arrow keys
+// There is a bouncing blue enemy square on the canvas
+// When the red square touches an "enemy" square on the canvas, the enemy square changes position 
+// There is a meter at the top of the screen that counts the player's HP
+// The individual tasks of this project will need to be separated for these programs to work
+// I suggest moving the files around so that one draw loop file is in the folder at a time
+// Make sure that the index file is in the folder with the draw loop file
+// Make sure to change the name of the file that is referenced on line 10 of the index file
+// If the draw loop file is not named "sketch.js", change it from "sketch.js" to the name of the file that is being used to draw
+// The program will not work unless the index file references the correct draw loop file
+// If no changes are made to any of the other three folders in this zip, the programs will work
